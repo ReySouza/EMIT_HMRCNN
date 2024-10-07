@@ -1,0 +1,15 @@
+name: HMRCNN_PRH
+channels:
+  - conda-forge
+dependencies:
+  - python=3.6
+  - numpy
+  - scipy
+  - Pillow
+  - cython
+  - matplotlib
+  - scikit-image
+  - keras>=2.0.8
+  - h5py
+  - imgaug
+  - IPython[all]
