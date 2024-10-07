@@ -1,3 +1,17 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+"""
+Criado em 30 de setembro de 2024
+
+@autor: Reynaldo Souza de Carvalho
+https://github.com/nasa/EMIT-Data-Resources.git
+Email: LPDAAC@usgs.gov
+Voice: +1-866-573-3222
+Organization: Land Processes Distributed Active Archive Center (LP DAAC)¹
+Website: https://lpdaac.usgs.gov/
+"""
+
 import rasterio
 from rasterio.enums import Resampling
 
